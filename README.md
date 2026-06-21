@@ -10,9 +10,9 @@
 | 1 | Diva Filisa | 2455201085 |
 | 2 | Margogo Aryano | 2455201099 |
 | 3 | Melati Surya Ningsih | 2455201003 |
-| 4 | Muhammad Ridho Renaldi | 2455201048 |
+| 4 | Muhammad Ridho Renaldi | 24552010481 |
 | 5 | Oza Sulta Winanda | 2455201042 |
-| 6 | Rupinta Priayu Sitorus |2455201024 |
+| 6 | Rupita Priayu Sitorus  | 2455201024 |
 
 **Bahasa Target:** MiniPascal  
 **Fitur:** Integer, assignment `:=`, if-then-else, while-do, begin-end
@@ -40,6 +40,8 @@ minipascal/
 ### Prasyarat
 - Python 3.7 atau lebih baru
 - Tidak memerlukan library tambahan
+
+ git clone [https://github.com/margogoaryano/kelompok_5_bahasa-python/tree/main](https://github.com/margogoaryano/kelompok_5_bahasa-python/tree/main)
 
 ### Jalankan contoh bawaan:
 ```bash
