@@ -7,12 +7,12 @@
 ## Anggota Kelompok 5
 | No | Nama | NIM |
 |----|------|-----|
-| 1 | Diva Filisa | 2137154 |
-| 2 | Margogo Aryano | 2130544 |
-| 3 | Melati Surya Ningsih | 2104419 |
-| 4 | Muhammad Ridho Renaldi | 2104431 |
-| 5 | Oza Sulta Winanda | ... |
-| 6 | (Anggota 6) | ... |
+| 1 | Diva Filisa | 2455201085 |
+| 2 | Margogo Aryano | 2455201099 |
+| 3 | Melati Surya Ningsih | 2455201003 |
+| 4 | Muhammad Ridho Renaldi | 24552010481 |
+| 5 | Oza Sulta Winanda | 2455201042 |
+| 6 | Rupita Priayu Sitorus  | 2455201024 |
 
 **Bahasa Target:** MiniPascal  
 **Fitur:** Integer, assignment `:=`, if-then-else, while-do, begin-end
